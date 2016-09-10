@@ -1,0 +1,9 @@
+xterm*loginShell: true
+xterm*vt100*geometry: 80x30
+xterm*font: terminus-12
+xterm*boldFont: terminus-12
+xterm*saveLines: 2000
+xterm*eightBitInput: false
+xterm*foreground: white
+xterm*background: black
+xterm*scrollBar: false
